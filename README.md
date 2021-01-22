@@ -6,10 +6,10 @@
 - ⚡ Fun fact: I love making friends, funny, sometimes I lost control my mind, lol!                                          
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lenhutnam298&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nhutnamhcmus&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenhutnam298" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhutnamhcmus" />
 </a>
 
 [![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
