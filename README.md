@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently learning Computer Science, at VNU, University of Science, Ho Chi Minh City
-- 🌱 I’m currently learning Computer Vision, Software Development
+- 🌱 I’m interested in Computer Vision/ Visual Science, Software Development
+- 🤔 My plan for learning/ want to learn: Functional Programming with Haskell, Android Development
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love making friends, funny, sometimes I lost control my mind, lol!                                          
 
