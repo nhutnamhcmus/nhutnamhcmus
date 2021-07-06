@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently learning Computer Science, at VNU, University of Science, Ho Chi Minh City
 - 🌱 I’m interested in Computer Vision/ Visual Science, Software Development
-- 🤔 My plan for learning/ want to learn: Functional Programming with Haskell, Android Development
+- :dart: Currently, I'm focusing on Knowledge Graph, Graph Neural Networks
+- 🤔 My plan for learning/ want to learn: Functional Programming with Haskell
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love making friends, funny, sometimes I lost control my mind, lol!                                          
 
